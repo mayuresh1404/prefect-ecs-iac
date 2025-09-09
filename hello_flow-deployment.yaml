@@ -1,0 +1,6 @@
+name: "local-test"
+flow: "./hello_flow.py"
+work_queue_name: "default"
+work_pool_name: "ecs-work-pool"
+tags: []
+parameters: {}
